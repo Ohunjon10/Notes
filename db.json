@@ -1,0 +1,24 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "body": "Todays Agenda \n- Walk Dog\n- Feed fish\n- Play basketball\n- Eat a salad",
+      "updated": "2022-07-13T16:47:31.290Z"
+    },
+    {
+      "id": 2,
+      "body": "Bob from bar down the \n\n- Take out trash\n- Eat food\n",
+      "updated": "2022-07-13T16:47:25.220Z"
+    },
+    {
+      "body": "Learn React Redux",
+      "updated": "2022-07-13T16:47:20.993Z",
+      "id": 3
+    },
+    {
+      "body": "New Note\n\none\ntwo\nthree",
+      "updated": "2022-07-13T16:47:14.205Z",
+      "id": 4
+    }
+  ]
+}
